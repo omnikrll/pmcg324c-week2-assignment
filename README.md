@@ -5,8 +5,8 @@ To do the assignment, clone this repository, **make a new branch with your name*
 ## Questions:
 1. What are three differences between `document.querySelector()` and `document.getElementById()`?
 2. What's wrong with this line of JavaScript? `document.getElementById('#foo');`
-3. Given markup of 
-```<div class="container">
+3. Given markup of ```
+<div class="container">
 	<p id="1"></p>
 	<p id="2"></p>
 	<p id="3"></p>
