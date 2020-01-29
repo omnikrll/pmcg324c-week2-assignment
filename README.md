@@ -10,7 +10,8 @@ To do the assignment, clone this repository, **make a new branch with your name*
 	<p id="1"></p>
 	<p id="2"></p>
 	<p id="3"></p>
-</div>```
+</div>
+```
   1. How would you select **all** the paragraphs in this div?
   2. How yould you select **only** the 2nd paragraph?
 
