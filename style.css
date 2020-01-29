@@ -1,0 +1,21 @@
+.demo-module {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.serif {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

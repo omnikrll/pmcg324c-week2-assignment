@@ -9,7 +9,24 @@
 </head>
 <body>
 	<div class="answers">
-		<p>add your answers here.</p>
+		## Questions:
+1. What are three differences between `document.querySelector()` and `document.getElementById()`?
+<p>querySelector Returns a static set of elements</p>
+<p>getElementById Returns a live set of elements</p>
+<p>querySelector is more like jQuery syntax</p>
+2. What's wrong with this line of JavaScript? `document.getElementById('#foo');`
+<p>foo doesn't need the #</p>
+3. Given markup of 
+```html
+<div class="container">
+	<p id="1">paragraph 1</p>
+	<p id="2">paragraph 2</p>
+	<p id="3">paragraph 3</p>
+</div>
+1. How would you select **all** the paragraphs in this div?
+	<p>document.getElementByTagName(‘p’)</p>
+2. How yould you select **only** the 2nd paragraph?
+	<p>document.getElementBy('2')</p>
 	</div>
 
 	<a id="clickMe" href="#">click me</a>
