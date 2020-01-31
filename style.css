@@ -2,7 +2,7 @@ h1{
   font-family: helvetica;
   font-size: 40;
   font-weight: bold;
-  color: red;
+  color: maroon;
   text-align: center;
 }
 
@@ -29,7 +29,7 @@ p{
   padding: 30px;
   font-size: 18;
   text-align: right;
-  color: red;
+  text-decoration-color: maroon;
 }
 
 .answers{
