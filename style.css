@@ -28,12 +28,12 @@ p{
 p.demo-module{
   padding: 30px;
   font-size: 18;
-  text-align: center;
+  text-align: right;
   color: red;
 }
 
-.answers{
-  padding: 30px;
+p.answers{
+  padding: 10px;
   border: medium double #808000;
   background-color: orange;
   color: maroon;
