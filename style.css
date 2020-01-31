@@ -14,8 +14,8 @@ p{
 }
 
 #clickMe{
-  position: absolute;
-  padding: 20px;
+  position: relative;
+  padding: 10px;
   border: thick;
   border-color: red;
   background-color: grey;
@@ -26,13 +26,14 @@ p{
 
 
 p.demo-module{
+  padding: 30px;
   font-size: 18;
   text-align: center;
   color: red;
 }
 
 .answers{
-  padding: top 30px; left 30px;
+  padding: 30px;
   border: medium double #808000;
   background-color: orange;
   color: maroon;
