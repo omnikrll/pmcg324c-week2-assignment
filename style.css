@@ -3,13 +3,37 @@ h1{
   font-size: 40;
   font-weight: bold;
   color: red;
+  text-align: center;
 }
 
 p{
+  position: relative; top 20px; left 60px;
   font-family: helvetica;
   font-size: 12;
+  color: black;
+}
+
+#clickMe{
+  position: absolute;
+  padding: 20px;
+  border: thick;
+  border-color: red;
+  background-color: grey;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+
+p.demo-module{
+  font-size: 18;
+  text-align: center;
+  color: red;
 }
 
 .answers{
-  color: green;
+  padding: top 30px; left 30px;
+  border: medium double #808000;
+  background-color: orange;
+  color: maroon;
 }
