@@ -4,5 +4,5 @@ var text = document.getElementById("text")
 clickMe.addEventListener("click", updateDemo);
 
 function updateDemo(){
-  text.innerHTML = "Correct Answers";
+  text.innerHTML = "Your answers are correct!";
 }
