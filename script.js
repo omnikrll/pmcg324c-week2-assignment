@@ -1,5 +1,5 @@
-var clickMe = document.getElementById(clickMe)
-var text = document.getElementById(text)
+var clickMe = document.getElementById("clickMe")
+var text = document.getElementById("text")
 
 clickMe.addEventListener("click", updateDemo);
 
