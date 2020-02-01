@@ -38,6 +38,9 @@ p.clickMe{
   text-transform: uppercase;
   text-align: center;
   text-decoration-color: maroon;
+}
+
+p.demo-nodule{
   color: maroon;
 }
 
