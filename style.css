@@ -1,4 +1,4 @@
-h1{
+h1 {
   font-family: helvetica;
   font-size: 40;
   font-weight: bold;
@@ -6,33 +6,43 @@ h1{
   text-align: center;
 }
 
-p{
+p {
   position: relative; top 20px; left 60px;
   font-family: helvetica;
   font-size: 12;
   color: black;
 }
 
-#clickMe{
-  position: relative;
+#clickMe {
+  margin-top: 20px;
+  position: absolute; left: 40%;
+  margin-top: 20px;
+  margin-bottom: 20px;
   padding: 10px;
   border: thick;
   border-color: red;
   background-color: grey;
   text-align: center;
-  color: red;
+  color: maroon;
   font-weight: bold;
 }
 
-
-.demo-module{
-  padding: 30px;
-  font-size: 18;
-  text-align: right;
-  text-decoration-color: maroon;
+p.clickMe{
+  color: maroon;
 }
 
-.answers{
+
+.demo-module {
+  margin-top:50px;
+  padding: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration-color: maroon;
+  color: maroon;
+}
+
+.answers {
+  display: block;
   padding: 10px;
   border: medium double #808000;
   background-color: orange;
