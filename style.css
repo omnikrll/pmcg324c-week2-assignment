@@ -51,3 +51,11 @@ p.demo-nodule{
   background-color: orange;
   color: maroon;
 }
+
+.different {
+  background-color: purple;
+}
+
+.different p {
+  color: white;
+}
